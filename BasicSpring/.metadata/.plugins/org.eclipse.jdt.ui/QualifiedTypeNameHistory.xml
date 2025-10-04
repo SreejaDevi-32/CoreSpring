@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+    <fullyQualifiedTypeName name="com.spring.basic.Exceptions.NullCustomException"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.WebApplicationType"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="com.spring.basic.classes.Product"/>
+    <fullyQualifiedTypeName name="com.spring.basic.controllers.ProductController"/>
+    <fullyQualifiedTypeName name="com.spring.basic.classes.HateosLinks"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="org.springframework.hateoas.server.mvc.WebMvcLinkBuilder"/>
+    <fullyQualifiedTypeName name="com.spring.basicspring.schedulers.DynamicSchedulerService"/>
+    <fullyQualifiedTypeName name="com.spring.basic.classes.SimpleTask"/>
+    <fullyQualifiedTypeName name="com.spring.basic.classes.UserCaches"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="com.spring.basic.customAnnotation.LogExecutionTime"/>
+</qualifiedTypeNameHistroy>

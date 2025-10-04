@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=basicspring/C:\/Users\/mohan\/.m2\/repository\/org\/springframework\/security\/spring-security-core\/6.4.4\/spring-security-core-6.4.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-core=/=/maven.version=/6.4.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.security.provisioning(InMemoryUserDetailsManager.class[InMemoryUserDetailsManager" modifiers="33" timestamp="1743668994813"/>
+    <typeInfo handle="=basicspring/C:\/Users\/mohan\/.m2\/repository\/org\/springframework\/boot\/spring-boot-autoconfigure\/3.4.4\/spring-boot-autoconfigure-3.4.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.boot=/=/maven.artifactId=/spring-boot-autoconfigure=/=/maven.version=/3.4.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.boot.autoconfigure.security.servlet(UserDetailsServiceAutoConfiguration.class[UserDetailsServiceAutoConfiguration" modifiers="33" timestamp="1743668993755"/>
+</typeInfoHistroy>

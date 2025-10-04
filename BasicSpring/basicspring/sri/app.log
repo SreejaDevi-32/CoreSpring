@@ -1,0 +1,23 @@
+2025-04-18 08:32:00 INFO  [restartedMain] c.s.b.BasicspringApplication Line:[53] -Starting BasicspringApplication using Java 17.0.12 with PID 3824 (C:\satish\sreeja\BasicSpring\basicspring\target\classes started by mohan in C:\satish\sreeja\BasicSpring\basicspring)
+2025-04-18 08:32:00 INFO  [restartedMain] c.s.b.BasicspringApplication Line:[652] -No active profile set, falling back to 1 default profile: "default"
+2025-04-18 08:32:01 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor Line:[252] -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-04-18 08:32:01 INFO  [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor Line:[252] -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-04-18 08:32:05 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer Line:[111] -Tomcat initialized with port 8080 (http)
+2025-04-18 08:32:05 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol Line:[173] -Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-18 08:32:05 INFO  [restartedMain] o.a.catalina.core.StandardService Line:[173] -Starting service [Tomcat]
+2025-04-18 08:32:05 INFO  [restartedMain] o.a.catalina.core.StandardEngine Line:[173] -Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-18 08:32:05 INFO  [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/] Line:[173] -Initializing Spring embedded WebApplicationContext
+2025-04-18 08:32:05 INFO  [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext Line:[301] -Root WebApplicationContext: initialization completed in 4373 ms
+2025-04-18 08:32:07 INFO  [restartedMain] o.s.b.d.a.OptionalLiveReloadServer Line:[59] -LiveReload server is running on port 35729
+2025-04-18 08:32:07 INFO  [restartedMain] o.s.b.a.e.web.EndpointLinksResolver Line:[60] -Exposing 14 endpoints beneath base path '/actuator'
+2025-04-18 08:32:07 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol Line:[173] -Starting ProtocolHandler ["http-nio-8080"]
+2025-04-18 08:32:07 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer Line:[243] -Tomcat started on port 8080 (http) with context path '/'
+2025-04-18 08:32:08 INFO  [restartedMain] c.s.b.BasicspringApplication Line:[59] -Started BasicspringApplication in 7.565 seconds (process running for 8.651)
+2025-04-18 08:32:08 INFO  [RMI TCP Connection(5)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/] Line:[173] -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-18 08:32:08 INFO  [RMI TCP Connection(5)-127.0.0.1] o.s.web.servlet.DispatcherServlet Line:[532] -Initializing Servlet 'dispatcherServlet'
+2025-04-18 08:32:08 INFO  [RMI TCP Connection(5)-127.0.0.1] o.s.web.servlet.DispatcherServlet Line:[554] -Completed initialization in 1 ms
+2025-04-18 08:32:08 INFO  [RMI TCP Connection(9)-127.0.0.1] o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin Line:[159] -Application shutdown requested.
+2025-04-18 08:32:08 INFO  [RMI TCP Connection(9)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown Line:[54] -Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-18 08:32:08 INFO  [tomcat-shutdown] o.a.coyote.http11.Http11NioProtocol Line:[173] -Pausing ProtocolHandler ["http-nio-8080"]
+2025-04-18 08:32:08 INFO  [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown Line:[76] -Graceful shutdown complete
+2025-04-18 08:32:08 INFO  [RMI TCP Connection(9)-127.0.0.1] o.a.coyote.http11.Http11NioProtocol Line:[173] -Stopping ProtocolHandler ["http-nio-8080"]
