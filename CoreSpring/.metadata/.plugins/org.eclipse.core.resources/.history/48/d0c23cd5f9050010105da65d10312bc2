@@ -1,0 +1,5 @@
+package com.spring.core.componentscan;
+
+public class OrderController {
+
+}

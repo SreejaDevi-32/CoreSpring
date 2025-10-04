@@ -1,0 +1,5 @@
+package com.spring.core.beansconfig;
+
+public interface MyService {
+    String getMessage();
+}
